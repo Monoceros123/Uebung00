@@ -1,0 +1,14 @@
+C:\Users\janet\Documents\Freiberg_Uni-Unterrichts-Zeug\Semester8\Software\Uebung00\Uebung00\bin\Debug\net8.0\Uebung00.exe
+C:\Users\janet\Documents\Freiberg_Uni-Unterrichts-Zeug\Semester8\Software\Uebung00\Uebung00\bin\Debug\net8.0\Uebung00.deps.json
+C:\Users\janet\Documents\Freiberg_Uni-Unterrichts-Zeug\Semester8\Software\Uebung00\Uebung00\bin\Debug\net8.0\Uebung00.runtimeconfig.json
+C:\Users\janet\Documents\Freiberg_Uni-Unterrichts-Zeug\Semester8\Software\Uebung00\Uebung00\bin\Debug\net8.0\Uebung00.dll
+C:\Users\janet\Documents\Freiberg_Uni-Unterrichts-Zeug\Semester8\Software\Uebung00\Uebung00\bin\Debug\net8.0\Uebung00.pdb
+C:\Users\janet\Documents\Freiberg_Uni-Unterrichts-Zeug\Semester8\Software\Uebung00\Uebung00\obj\Debug\net8.0\Uebung00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janet\Documents\Freiberg_Uni-Unterrichts-Zeug\Semester8\Software\Uebung00\Uebung00\obj\Debug\net8.0\Uebung00.AssemblyInfoInputs.cache
+C:\Users\janet\Documents\Freiberg_Uni-Unterrichts-Zeug\Semester8\Software\Uebung00\Uebung00\obj\Debug\net8.0\Uebung00.AssemblyInfo.cs
+C:\Users\janet\Documents\Freiberg_Uni-Unterrichts-Zeug\Semester8\Software\Uebung00\Uebung00\obj\Debug\net8.0\Uebung00.csproj.CoreCompileInputs.cache
+C:\Users\janet\Documents\Freiberg_Uni-Unterrichts-Zeug\Semester8\Software\Uebung00\Uebung00\obj\Debug\net8.0\Uebung00.dll
+C:\Users\janet\Documents\Freiberg_Uni-Unterrichts-Zeug\Semester8\Software\Uebung00\Uebung00\obj\Debug\net8.0\refint\Uebung00.dll
+C:\Users\janet\Documents\Freiberg_Uni-Unterrichts-Zeug\Semester8\Software\Uebung00\Uebung00\obj\Debug\net8.0\Uebung00.pdb
+C:\Users\janet\Documents\Freiberg_Uni-Unterrichts-Zeug\Semester8\Software\Uebung00\Uebung00\obj\Debug\net8.0\Uebung00.genruntimeconfig.cache
+C:\Users\janet\Documents\Freiberg_Uni-Unterrichts-Zeug\Semester8\Software\Uebung00\Uebung00\obj\Debug\net8.0\ref\Uebung00.dll
